@@ -10,3 +10,7 @@ Just use original resource and import bootstrap-datepicker-th.js or bootstrap-da
 
     <script src="./bootstrap-datepicker/dist/js/bootstrap-datepicker-th.min.js"></script>
     <script src="./bootstrap-datepicker/dist/locales/bootstrap-datepicker.th.min.js"></script>
+
+## Preview
+
+![Alt text](https://cloud.githubusercontent.com/assets/1217739/11462724/71518418-974a-11e5-9f1b-7d824ba5d1e3.png "Preview")
