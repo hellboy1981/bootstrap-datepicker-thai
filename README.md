@@ -6,7 +6,7 @@ Just use original resource and import bootstrap-datepicker-th.js or bootstrap-da
 
 ## Development
 
-    <link rel="stylesheet" href="./bootstrap-datepicker/dist/css/bootstrap-datepicker3.min.css">
+    <link rel="stylesheet" href="./bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
 
     <script src="./bootstrap-datepicker/dist/js/bootstrap-datepicker-th.min.js"></script>
     <script src="./bootstrap-datepicker/dist/locales/bootstrap-datepicker.th.min.js"></script>
